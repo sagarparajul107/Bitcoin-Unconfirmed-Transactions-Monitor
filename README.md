@@ -16,6 +16,7 @@
 **Tkinter library (usually comes pre-installed with Python)**
 **requests library (can be installed with pip)**
 # Installation
+git clone git@github.com:sagarparajul107/Bitcoin-Unconfirmed-Transactions-Monitor.git
 ## Step 1: Install Python
 **Make sure Python 3.x is installed on your system. You can download it from python.org**
 
